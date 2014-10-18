@@ -1,0 +1,9 @@
+Src -> pure souce
+BitTorrentProject -> eclipse work space
+java doc -> java doc (probably want to start at index)
+
+
+LionsShare.jar -> should be executable jar that runs our client 
+(I think its cross platform, Java 7. Definately worked on windows)
+
+Our client has no user data. its pretty boring.  
