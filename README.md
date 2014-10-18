@@ -5,7 +5,7 @@ Final Project of CMSC417 - Computer Networking
 
 **Made Fall 2013** - Over the span of two weeks.
 
-I've left all my "design" docs in, with spelling mistakes an all. 
+I've left all my "design docs" here, with spelling mistakes an all. 
 Supports many of torrents sub-protocals.
 
 Specs: https://wiki.theory.org/BitTorrentSpecification
