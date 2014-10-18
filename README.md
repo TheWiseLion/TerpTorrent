@@ -3,12 +3,12 @@ TerpTorrent
 
 Final Project of CMSC417 - Computer Networking
 
-Fall 2013
+**Made Fall 2013** - Over the span of two weeks.
 
-Programmed over the span two weeks. I've left all my "design" docs in, with spelling mistakes an all. 
+I've left all my "design" docs in, with spelling mistakes an all. 
 Supports many of torrents sub-protocals.
 
-https://wiki.theory.org/BitTorrentSpecification
+Specs: https://wiki.theory.org/BitTorrentSpecification
 
 There is plenty of resuable segments (e.g. b-encoder) if your looking to build something similar.
 
