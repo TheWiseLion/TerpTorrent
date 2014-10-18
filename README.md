@@ -12,7 +12,7 @@ Specs: https://wiki.theory.org/BitTorrentSpecification
 
 There is plenty of resuable segments (e.g. b-encoder) if your looking to build something similar.
 
-![alt tag](http://raw.githubusercontent.com/TheWiseLion/TerpTorrent/master/Demo.PNG)
+![alt tag](https://raw.githubusercontent.com/TheWiseLion/TerpTorrent/master/Demo.PNG)
 
 
 Here is text from old readme:
