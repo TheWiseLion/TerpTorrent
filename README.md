@@ -1,12 +1,13 @@
-TerpTorrent
-===========
+#TerpTorrent
+=============
 
 Final Project of CMSC417 - Computer Networking
 
 **Made Fall 2013** - Over the span of two weeks.
 
-I've left all my "design docs" here, with spelling mistakes an all. 
-Supports many of torrents sub-protocals.
+I've left all my "design docs" here, with spelling mistakes and all. 
+
+Supports many of torrents sub-protocals (e.g. <href=http://bittorrent.org/beps/bep_0005.html>DHT</href>).
 
 Specs: https://wiki.theory.org/BitTorrentSpecification
 
