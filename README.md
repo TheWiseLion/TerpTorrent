@@ -7,7 +7,7 @@ Final Project of CMSC417 - Computer Networking
 
 I've left all my "design docs" here, with spelling mistakes and all. 
 
-Supports many of torrents sub-protocals (e.g. <href=http://bittorrent.org/beps/bep_0005.html>DHT</href>).
+Supports many of torrents sub-protocals (e.g. [DHT](http://bittorrent.org/beps/bep_0005.html)).
 
 Specs: https://wiki.theory.org/BitTorrentSpecification
 
